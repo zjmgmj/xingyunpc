@@ -20,7 +20,10 @@ module.exports = {
       { rel: 'stylesheet', href: '//at.alicdn.com/t/font_651366_chsjhvojtwf.css' }
     ]
   },
-
+  server: {
+    host: '0.0.0.0',
+    port: 6686
+  },
   /*
   ** Customize the progress-bar color
   */
