@@ -3,7 +3,7 @@ import Input from '@/components/Input/Input.vue'
 import InputNum from '@/components/Input/InputNum.vue'
 import InputRemote from '@/components/Input/InputRemote.vue'
 import Select from '@/components/Input/Select.vue'
-import DateTimePicker from '@/Components/DateTime/DateTimePicker.vue'
+import DateTimePicker from '@/components/DateTime/DateTimePicker.vue'
 import BasicTable from '@/components/BasicTable.vue'
 
 Vue.component('z-input', Input)
